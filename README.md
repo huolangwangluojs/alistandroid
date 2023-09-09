@@ -1,10 +1,10 @@
 #### 安装教程
 
 ```bash
-bash -c "$(curl https://gitee.com/aedelnz/Termux/raw/master/main.sh)"
+bash -c "$(curl https://gitee.com/shsjsb/alist/raw/master/alist.sh)"
 ```
 
 ```
-wget https://gitee.com/aedelnz/Termux/raw/master/main.sh
-bash main.sh
+wget https://gitee.com/shsjsb/alist/raw/master/alist.sh
+bash alist.sh
 ```
